@@ -20,7 +20,7 @@ WebSocket that will automatically reconnect if the connection is closed.
 ## Install
 
 ```bash
-npm install --save reconnecting-websocket
+npm i https://github.com/imbdb/reconnecting-websocket
 ```
 
 ## Usage
